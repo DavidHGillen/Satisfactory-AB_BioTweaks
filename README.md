@@ -1,7 +1,7 @@
 # Satisfactory-AB_BioTweaks
 The development source for the Satisfactory mod AB_BioTweaks
 
-See the [mod page](?????????????) for details
+See the [mod page](https://ficsit.app/mod/AB_BioTweaks) for details
 
 # Setup
 If you want to play the mod, install it via SMM.
