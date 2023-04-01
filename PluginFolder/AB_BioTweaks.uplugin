@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "Beaver's Bio Recipe Tweaks",
 	"Description": "Rebalance liquid biofuel and some other minor things",
 	"Category": "Modding",
@@ -19,7 +19,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.3.2",
+			"SemVersion": "^3.4.1",
 			"bIsOptional": false,
 			"Enabled": true
 		}
