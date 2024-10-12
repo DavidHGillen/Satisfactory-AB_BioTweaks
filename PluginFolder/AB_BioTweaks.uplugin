@@ -1,13 +1,13 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.2",
-	"SemVersion": "1.2.2",
+	"VersionName": "1.2.3",
+	"SemVersion": "1.2.3",
 	"FriendlyName": "Beaver's Bio Recipe Tweaks",
 	"Description": "Add Biological equipment and resource recipes, re-balance some vanilla biomass recipes",
 	"Category": "Modding",
-	"CreatedBy": "angrybeaver",
-	"CreatedByURL": "",
+	"CreatedBy": "AngryBeaver",
+	"CreatedByURL": "https://github.com/DavidHGillen/Satisfactory-AB_BioTweaks",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
@@ -15,13 +15,12 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"Modules" : [],
+	"GameVersion": ">=365306",
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.7.0",
-			"bIsOptional": false,
-			"Enabled": true
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
 		}
 	]
 }
