@@ -22,5 +22,11 @@
 			"Enabled": true,
 			"SemVersion": "^3.11.1"
 		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "AB_BioTweaks",
+			"LoadingPolicy": "Always"
+		}
 	]
 }
